@@ -1,0 +1,1 @@
+stimuli (.wav, .png, etc.) files go in this directory
