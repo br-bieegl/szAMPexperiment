@@ -1,0 +1,42 @@
+=======================================
+
+Auditory Task:
+
+Standard 1
+Target 2
+Novel 4
+Response 5
+
+========================================
+
+Visual Task:
+
+Tone1 16
+Tone2 18
+Response 17
+Standard 32
+Target 64
+Novel 128
+
+========================================
+
+ASSR:
+
+ClickTrain 8
+
+========================================
+
+Resting State, Eyes Open:
+
+1second 20
+
+========================================
+
+Resting State, Eyes Closed:
+
+1second 24
+
+========================================
+
+best,
+Pete

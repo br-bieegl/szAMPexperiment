@@ -1,0 +1,14 @@
+trial {    
+     
+      trial_duration = $SOA; 
+      sound {
+      wavefile { filename = "$snd.wav"; };
+      attenuation = $atten;
+      };
+      target_button = $resp;
+      code = $snd; 
+      port_code = $trg;      
+      time = 0;
+      
+      
+      };
